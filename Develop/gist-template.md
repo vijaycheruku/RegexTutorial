@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Regex(Regular Expression) is most commonly used in javascript these days for form validations. They are the patterns that describes the set of Strings that matches the pattern. It is used to locate or validate specific strings or patterns of text in a sentence, document, or any other character input.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial will explain few key topic of regex with examples in a simple and basic way which can be read and understand by freshers to Regex as well.
 
 ## Table of Contents
 
